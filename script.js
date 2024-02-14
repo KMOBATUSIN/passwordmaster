@@ -90,16 +90,59 @@ var upperCasedCharacters = [
 
 // Function to prompt user for password options
 function getPasswordOptions() {
+  var passwordLength= parseInt(window.prompt("Enter a number between 8 and 128 for your password length" ));
+
+  if (!(passwordLength >=8 && passwordLength <=128 )) {
+  window.alert("Character length should be between 8 and 128");
+  return null;
+  }
+  
+  var lowercase= window.confirm("Do you want to include lowercase letters?");
+  var uppercase= window.confirm("Do you want to include uppercase letters?");
+  var numbers= window.confirm("Do you want to include numbers?");
+  var special= window.confirm("Do you want to include special characters?");
+
+  if(!lowercase && !uppercase && !numbers && !special){
+  window.alert("Password must have at least one character type");
+  return null;
+
+  }
+  var optionChoices={passwordLength, lowercase, uppercase, numbers, special};
+  return optionChoices;
+
 
 }
 
+
 // Function for getting a random element from an array
 function getRandom(arr) {
-
+    return arr[Math.floor(Math.random() * arr.length)];
+  
 }
 
 // Function to generate password with user input
 function generatePassword() {
+  var selectedOptions= getPasswordOptions();
+  if(!selectedOptions){
+  return" ";}
+
+  //Js objects format is used here.(for my info)
+  var characters =" ";
+  if(selectedOptions.lowercase) characters = characters.concat(lowerCasedCharacters);
+  if(selectedOptions.uppercase) characters = characters.concat(upperCasedCharacters);
+  if(selectedOptions.numbers) characters = characters.concat(numericCharacters);
+  if(selectedOptions.special) characters = characters.concat(specialCharacters);
+  // using the while loop
+  var password=" ";
+  let i=0;
+  while (i < selectedOptions.passwordLength) {
+    password += getRandom(characters);
+    i++;
+  }
+  return password;
+
+
+  
 
 }
 
