@@ -25,3 +25,5 @@ See screenshots below of the outcomes
 ![alt text](assets/images/screenshot7.png)
 ![alt text](assets/images/screenshot8.png)
 ![alt text](assets/images/screenshot9.png)
+
+url to generator: https://kmobatusin.github.io/passwordmaster/
