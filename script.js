@@ -126,7 +126,7 @@ function generatePassword() {
   if(!selectedOptions){
   return" ";}
 
-  //Js objects format is used here.(for my info)
+  //Js objects format is used here.(for my info) and the array method called concat().
   var characters =" ";
   if(selectedOptions.lowercase) characters = characters.concat(lowerCasedCharacters);
   if(selectedOptions.uppercase) characters = characters.concat(upperCasedCharacters);
