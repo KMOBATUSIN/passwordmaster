@@ -16,14 +16,18 @@ Also how to convert boolean value to integer since the length needed to be read 
 I might add a console log to the code later.
 
 See screenshots below of the outcomes
-![character length](passwordmaster/assets/images/screenshot1.png)
-![select character](passwordmaster/assets/images/screenshot2.png)
-![select character](passwordmaster/assets/images/screenshot3.png)
-![select character](passwordmaster/assets/images/screenshot4.png)
-![select character](passwordmaster/assets/images/screenshot5.png)
-![results](passwordmaster/assets/images/screenshot6.png)
-![incorrect length](passwordmaster/assets/images/screenshot7.png)
-![alert wrong length](passwordmaster/assets/images/screenshot8.png)
-![no character type](passwordmaster/assets/images/screenshot9.png)
+
+![character length](assets/images/Screenshots/screenshot1.png)
+![select character](assets/images/Screenshots/screenshot2.png)
+![select character](assets/images/Screenshots/screenshot3.png)
+![select character](assets/images/Screenshots/screenshot4.png)
+![select character](assets/images/Screenshots/screenshot5.png)
+![results](assets/images/Screenshots/screenshot6.png)
+![incorrect length](assets/images/Screenshots/screenshot7.png)
+![alert wrong length](assets/images/Screenshots/screenshot8.png)
+![no character type](assets/images/Screenshots/screenshot9.png)
+
 
 url to generator: https://kmobatusin.github.io/passwordmaster/
+url to repository: https://github.com/KMOBATUSIN/console-finances
+
