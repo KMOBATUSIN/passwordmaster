@@ -29,3 +29,5 @@ See screenshots below of the outcomes
 
 
 url to generator: https://kmobatusin.github.io/passwordmaster/
+url to repository: https://github.com/KMOBATUSIN/console-finances
+
