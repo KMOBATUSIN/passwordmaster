@@ -18,14 +18,14 @@ I might add a console log to the code later.
 See screenshots below of the outcomes
 
 ![character length](assets/Screenshots/Screenshot1.png)
-![select character](assets/images/Screenshots/Screenshot2.png)
-![select character](assets/images/Screenshots/Screenshot3.png)
-![select character](assets/images/Screenshots/Screenshot4.png)
-![select character](assets/images/Screenshots/Screenshot5.png)
-![results](assets/images/Screenshots/Screenshot6.png)
-![incorrect length](assets/images/Screenshots/Screenshot7.png)
-![alert wrong length](assets/images/Screenshots/Screenshot8.png)
-![no character type](assets/images/Screenshots/Screenshot9.png)
+![select character](assets/Screenshots/Screenshot2.png)
+![select character](assets/Screenshots/Screenshot3.png)
+![select character](assets/Screenshots/Screenshot4.png)
+![select character](assets/Screenshots/Screenshot5.png)
+![results](assets/Screenshots/Screenshot6.png)
+![incorrect length](assets/Screenshots/Screenshot7.png)
+![alert wrong length](assets/Screenshots/Screenshot8.png)
+![no character type](assets/Screenshots/Screenshot9.png)
 
 
 url to generator: https://kmobatusin.github.io/passwordmaster/
