@@ -16,6 +16,7 @@ Also how to convert boolean value to integer since the length needed to be read 
 I might add a console log to the code later.
 
 See screenshots below of the outcomes
+
 ![character length](assets/images/Screenshots/screenshot1.png)
 ![select character](assets/images/Screenshots/screenshot2.png)
 ![select character](assets/images/Screenshots/screenshot3.png)
