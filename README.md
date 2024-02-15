@@ -16,14 +16,14 @@ Also how to convert boolean value to integer since the length needed to be read 
 I might add a console log to the code later.
 
 See screenshots below of the outcomes
-![alt text](assets/images/screenshot1.png)
-![alt text](assets/images/screenshot2.png)
-![alt text](assets/images/screenshot3.png)
-![alt text](assets/images/screenshot4.png)
-![alt text](assets/images/screenshot5.png)
-![alt text](assets/images/screenshot6.png)
-![alt text](assets/images/screenshot7.png)
-![alt text](assets/images/screenshot8.png)
-![alt text](assets/images/screenshot9.png)
+![character length](passwordmaster/assets/images/screenshot1.png)
+![select character](passwordmaster/assets/images/screenshot2.png)
+![select character](passwordmaster/assets/images/screenshot3.png)
+![select character](passwordmaster/assets/images/screenshot4.png)
+![select character](passwordmaster/assets/images/screenshot5.png)
+![results](passwordmaster/assets/images/screenshot6.png)
+![incorrect length](passwordmaster/assets/images/screenshot7.png)
+![alert wrong length](passwordmaster/assets/images/screenshot8.png)
+![no character type](passwordmaster/assets/images/screenshot9.png)
 
 url to generator: https://kmobatusin.github.io/passwordmaster/
